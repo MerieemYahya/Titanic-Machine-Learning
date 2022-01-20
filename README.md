@@ -27,7 +27,7 @@ the sinking of the Titanic.
 3. K-NN Classifier with GridSearchCV
 4. Logistic regression classifier with GridSearchCV
 5. Random Forest classifier With GridSearchCV
-6. Implement a web application using streamlit where the user can.
+6. Implement a web application using streamlit where the user can:
 - Select the ML model to use.
 - Hyperparameters setting.
 - Run the classification with classify button!
