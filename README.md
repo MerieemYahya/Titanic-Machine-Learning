@@ -41,10 +41,10 @@ The dataset contains the following features:
 ## What Has Been Done
 
 1. **Data Preprocessing**:
-  - Missing values were filled and categorical features were encoded using one-hot encoding.
-  - Dropped duplicates and checked for missing values.
-  - Filled missing values in 'Age', 'Cabin', and 'Embarked' using mode.
-  - Converted categorical variables using OneHotEncoder and OrdinalEncoder.
+    - Missing values were filled and categorical features were encoded using one-hot encoding.
+    - Dropped duplicates and checked for missing values.
+    - Filled missing values in 'Age', 'Cabin', and 'Embarked' using mode.
+    - Converted categorical variables using OneHotEncoder and OrdinalEncoder.
 
 2. **Exploratory Data Analysis (EDA)**: A comprehensive analysis of the dataset was conducted to understand the features, their distributions, and relationships with the target variable (Survived).
     
